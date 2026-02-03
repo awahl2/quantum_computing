@@ -40,8 +40,3 @@ jupyter notebook
 ```
 
 This will open a browser window at `http://localhost:8888` where you can access and run `single_systems.ipynb`.
-
-## Project Files
-
-- `single_systems.ipynb` - Main notebook exploring quantum state vectors, operators, and circuits
-- `requirements.txt` - Python package dependencies
